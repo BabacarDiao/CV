@@ -1,3 +1,3 @@
 # Curriculum Vitae
-Professeur Babacar DIAO
-Chirurgien Urologue
+## Professeur Babacar DIAO
+### Chirurgien Urologue
